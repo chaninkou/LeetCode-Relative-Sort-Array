@@ -1,4 +1,4 @@
-package relative;
+package leetcode1122;
 
 public class SortRelativeArrayFunction {
     public int[] relativeSortArray(int[] arr1, int[] arr2) {

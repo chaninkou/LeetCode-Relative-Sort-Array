@@ -1,4 +1,4 @@
-package relative;
+package leetcode1122;
 
 import java.util.Arrays;
 
